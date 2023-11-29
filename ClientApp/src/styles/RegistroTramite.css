@@ -1,0 +1,12 @@
+.grid-container3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Dos columnas de igual tamaño */
+    grid-template-rows: auto auto auto auto; 
+    gap: 10px; /* Espacio entre los elementos del grid */
+  }
+  
+  .grid-item3 {
+    padding: 20px; /* Espacio interno para cada ítem */
+    text-align: center; /* Alineación del texto */
+  }
+  
